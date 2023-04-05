@@ -1,0 +1,11 @@
+{
+  "name": "react-foodapp",
+  "version": "1.0.0",
+  "description": "\"React Food App\"",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Saini",
+  "license": "ISC"
+}
